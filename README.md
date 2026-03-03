@@ -35,3 +35,8 @@ pip install -r requirements.txt
 ```
 
 OBS, the requirement files currently just list the packages used in this project. Package version errors might occur.
+
+
+### Usage
+
+The data is private and cannot be shared, unfortunately. Therefore, other data has to be preprocessed before running the code. Also, hardcoded paths should be changed. Also, I have removed my wandb entity to fully anonymize the script.
