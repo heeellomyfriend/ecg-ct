@@ -1,0 +1,14 @@
+torch
+numpy
+torchio
+wandb
+SimpleITK
+matplotlib
+vtk
+scipy
+scikit-learn
+pandas
+seaborn
+umap-learn
+nibabel
+tqdm
