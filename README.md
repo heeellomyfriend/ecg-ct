@@ -34,7 +34,7 @@ This project uses Python. Make sure you have a Python environment set up. Depend
 pip install -r requirements.txt
 ```
 
-OBS, the requirement files currently just list the packages used in this project. Package version errors might occur.
+OBS, the requirement files currently just list the packages used in this project. Package version errors might occur in the future. It works for the default packages at the moment with Python 3.13.11.
 
 
 ### Usage
