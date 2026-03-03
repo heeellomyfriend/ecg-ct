@@ -53,7 +53,7 @@ def train():
     if wandb_bool:
         wandb.init(
             project="CLIP3D-ECG",
-            entity="andreasaspe",
+            entity="",
             notes="Easy-rider again with FEWER data - EVEN STRONGER REGULARIZATION and LONGER WARMUP. So exactly the same as dry-glitter-39 with fewer data.",
             config={
                 "epochs": epochs,
